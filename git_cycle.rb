@@ -1,3 +1,11 @@
+#Instructions: Switch off between partners.
+#Do the exercise, uncomment the appropriate 
+#line of driver code, add the file, commit it, 
+#pull, and push it
+
+
+#Exercise 1
+
 def add(n1, n2)
   #write a block of code to return the sum 
   #of 2 numbers then delete these comments
@@ -23,4 +31,13 @@ end
 
 # def divide(n1, n2)
 #   return n1/n2
+#   #make necessary corrections then delete these comments
 # end
+
+
+
+######### Driver Code ###########
+add(2,3) == 5
+# subtract(6,3) == 3
+# multiply(50, 2) == 100
+# divide(100, 4) == 25
