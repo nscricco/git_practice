@@ -1,7 +1,11 @@
 #Instructions: Switch off between partners.
-#Do the exercise, uncomment the appropriate 
-#line of driver code, add the file, commit it, 
-#pull, and push it
+#Do the exercise and uncomment the appropriate 
+#line of driver code.
+#After the driver code has passed,
+#1) add the file
+#2) commit it
+#3) pull
+#4) push it
 
 
 #Exercise 1
