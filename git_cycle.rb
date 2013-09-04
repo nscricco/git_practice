@@ -11,8 +11,7 @@
 #Exercise 1
 
 def add(n1, n2)
-  #write a block of code to return the sum 
-  #of 2 numbers then delete these comments
+  n1 + n2
 end
 
 #Exercise 2
